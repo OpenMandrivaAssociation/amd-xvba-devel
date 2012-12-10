@@ -31,3 +31,10 @@ install -m 644 -D include/amdxvba.h %{buildroot}%{_includedir}/amdxvba.h
 %files
 %{_includedir}/amdxvba.h
 %doc LICENSE README doc/*.pdf
+
+
+%changelog
+* Mon Nov 21 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.74-1.404001
++ Revision: 732155
+- imported package amd-xvba-devel
+
