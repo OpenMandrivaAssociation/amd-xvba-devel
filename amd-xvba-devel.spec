@@ -1,7 +1,7 @@
 Name:		amd-xvba-devel
 Summary:	X-Video Bitstream Acceleration SDK by AMD
 Version:	0.74
-Release:	1.404001
+Release:	1.404002
 Group:		Development/C
 Source0:	http://developer.amd.com/Downloads/xvba-sdk-0.74-404001.tar.gz
 URL:		http://developer.amd.com
